@@ -1,0 +1,4 @@
+[submodule "atul-singh-blog/public"]
+	path = atul-singh-blog/public
+	url = https://github.com/hipswan/atul-singh.github.io.git
+	branch = main
